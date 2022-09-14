@@ -1,2 +1,1 @@
-# Project3_web-scraping
-Web scraping okresu Prostějov
+Program pro svou práci potřebuje naimportovat knihovnu BeautifuSoup a requests. Pomocí jednotlivých funkcí pak stáhne z 96 stránek ČSÚ s daty o hlasování v jednotlivých obcích v okresu Prostějov.Z jednotlivých stránek vysrapuje požadovaná data o voličích a počtech hlasů pro jednotlivé strany. Výsledná data poté exportuje do soubotu vysledky_Prostejov.csv.
